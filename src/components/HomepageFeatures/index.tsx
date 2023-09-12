@@ -1,54 +1,62 @@
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
+import React from "react";
+import clsx from "clsx";
+import styles from "./styles.module.css";
+import Link from "@docusaurus/Link";
+import Translate, { translate } from "@docusaurus/Translate";
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  link: string;
+  Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: JSX.Element;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: translate({ message: "Professional" }),
+    link: "/professional",
+    Svg: require("@site/static/img/software-developer.svg").default,
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+      <Translate>
+        Learn about my professional carrear, how I did started, how I
+        progressed, and where I am right now.
+      </Translate>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: translate({ message: "Briography" }),
+    link: "/biography",
+    Svg: require("@site/static/img/bio.svg").default,
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+      <Translate>
+        Get to know a little bit about me, my history, my hobbies, family and
+        friends.
+      </Translate>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: translate({ message: "Faith" }),
+    link: "/faith",
+    Svg: require("@site/static/img/cross.svg").default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <Translate>
+        Jesus Christ is my Lord and Savior. I submit to Him and follow Him. By
+        His Grace, through faith, I was made righteous before God.
+      </Translate>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, link, Svg, description }: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <h3>
+          <Link to={link}>{title}</Link>
+        </h3>
         <p>{description}</p>
       </div>
     </div>

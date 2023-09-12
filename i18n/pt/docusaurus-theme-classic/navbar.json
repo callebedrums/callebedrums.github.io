@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Callebe Gomes",
+    "description": "The title in the navbar"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Professional": {
+    "message": "Profissional",
+    "description": "Navbar item with label Professional"
+  },
+  "item.label.Biograpy": {
+    "message": "Biografia",
+    "description": "Navbar item with label Biograpy"
+  },
+  "item.label.Faith": {
+    "message": "Fé",
+    "description": "Navbar item with label Faith"
+  }
+}
