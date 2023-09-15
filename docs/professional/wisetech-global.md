@@ -10,6 +10,7 @@ tags:
   - TypeScript
   - JavaScript
   - Node.js
+  - Vuejs
   - OOD - Object Orientend Development
 ---
 
