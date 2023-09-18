@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcallebedrums_github_io=self.webpackChunkcallebedrums_github_io||[]).push([[1296],{7518:e=>{e.exports=JSON.parse('{"label":".NET","permalink":"/tags/net","allTagsPath":"/tags","count":1,"items":[{"id":"professional/radix","title":"Radix Engineering and Software","description":"Radix experience","permalink":"/professional/radix"}]}')}}]);

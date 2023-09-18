@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcallebedrums_github_io=self.webpackChunkcallebedrums_github_io||[]).push([[450],{3015:e=>{e.exports=JSON.parse('{"label":"VB.NET","permalink":"/tags/vb-net","allTagsPath":"/tags","count":1,"items":[{"id":"professional/radix","title":"Radix Engineering and Software","description":"Radix experience","permalink":"/professional/radix"}]}')}}]);

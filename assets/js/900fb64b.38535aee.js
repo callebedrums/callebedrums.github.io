@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcallebedrums_github_io=self.webpackChunkcallebedrums_github_io||[]).push([[9814],{4579:e=>{e.exports=JSON.parse('{"label":"Jasmine","permalink":"/tags/jasmine","allTagsPath":"/tags","count":1,"items":[{"id":"professional/general-electic","title":"General Electric","description":"GE experience","permalink":"/professional/general-electic"}]}')}}]);

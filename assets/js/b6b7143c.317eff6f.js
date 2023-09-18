@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcallebedrums_github_io=self.webpackChunkcallebedrums_github_io||[]).push([[9215],{3739:e=>{e.exports=JSON.parse('{"label":"Oracle","permalink":"/tags/oracle","allTagsPath":"/tags","count":1,"items":[{"id":"professional/radix","title":"Radix Engineering and Software","description":"Radix experience","permalink":"/professional/radix"}]}')}}]);

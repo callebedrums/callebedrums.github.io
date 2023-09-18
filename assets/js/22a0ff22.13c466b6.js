@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcallebedrums_github_io=self.webpackChunkcallebedrums_github_io||[]).push([[6046],{6863:e=>{e.exports=JSON.parse('{"label":"AWS ECR","permalink":"/tags/aws-ecr","allTagsPath":"/tags","count":1,"items":[{"id":"professional/general-electic","title":"General Electric","description":"GE experience","permalink":"/professional/general-electic"}]}')}}]);

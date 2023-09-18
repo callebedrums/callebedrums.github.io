@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcallebedrums_github_io=self.webpackChunkcallebedrums_github_io||[]).push([[8553],{7434:e=>{e.exports=JSON.parse('{"label":"PHP","permalink":"/tags/php","allTagsPath":"/tags","count":1,"items":[{"id":"professional/america","title":"Am\xe9rica Tecnologia","description":"Am\xe9rica Tecnologia experience","permalink":"/professional/america"}]}')}}]);
