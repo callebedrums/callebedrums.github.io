@@ -15,6 +15,8 @@ América Tecnologia is a Brasilian company that provides enterprise services and
 
 ## PHP Web Developer intern (Jan/2008 - Dec/2009)
 
+Location: Rio de Janeiro, RJ, Brazil
+
 I have developed the entire internal company system to manage and automate internal process, like reimbursements, purchases, sales and logistics.
 
 Was my very first job, and my first contact with PHP, MySql and Javascript.

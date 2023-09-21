@@ -22,7 +22,7 @@ Radix Engineering and Software is a consulting company that provides Engineering
 
 Location: Rio de Janeiro, RJ, Brazil
 
-As a Software Engineer I was most of the time involved in projects to Rede Globo, which is the Brazilina's biggets Televigion broadcasting company and one of the Radix's most important client.
+As a Software Engineer I was most of the time involved in projects to Rede Globo, which is the Brazilina's biggets Television broadcasting company and one of the Radix's most important client.
 
 Many of the projects for Rede Globo involved projects to manage their resources, their productions, resource allocations to the productions, engineering schematics for Journalism, and many others. Most of the projects were Web Applications projects, but some involved mobile applications targeting iOS devices.
 

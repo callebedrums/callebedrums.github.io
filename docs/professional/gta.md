@@ -17,6 +17,8 @@ GTA is a laboratory of Federal University of Rio de Janeiro (UFRJ) that research
 
 ## Network Researcher Intern (Jan/2010 - Dec/2010)
 
+Location: Rio de Janeiro, RJ, Brazil
+
 My job was to research about network virtualization with OpenFlow and develop a platform to manage the virtual networks.
 
-The main feature was to make the network manager able to migrate a specific flow from a network path to another without package loss. This feature was provided by a web interface, where the network manager could search by the flow, visualize it on network topology and do the flow migration just with an drag and drop.
+The main feature was to make the network manager able to migrate a specific flow from a network path to another without package loss. This feature was provided by a web interface, where the network manager could search by the flow, visualize it on network topology and do the flow migration just with a drag and drop.
